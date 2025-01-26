@@ -1,4 +1,4 @@
-# Street Fighter Inspired Fighting Game
+# Dynamic Fighting Game by Moiz Siddiqui
 
 A **Street Fighter-inspired game** built using **JavaScript** and **HTML**, with dynamic gameplay modes for **Single Player** and **Multiplayer**. This project provides an engaging fighting experience with animated sprites, health bar mechanics, and responsive controls.
 
